@@ -1,2 +1,2 @@
 # Formulario_Cadastro
-Formulário básico para cadastro de vagas
+Formulário básico para cadastro de vagas.
